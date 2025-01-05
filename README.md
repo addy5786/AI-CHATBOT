@@ -12,6 +12,12 @@
 
 **Mentor**: Neela Santhosh Kumar
 
+# OUTPUT OF THIS CODE
+
+# PROJECT:AI-CHATBOT
+
+![OUTPUT](https://github.com/user-attachments/assets/64234a9b-8063-49b0-92ee-09e08e8e654a)
+
 This code implements a simple chatbot using the Natural Language Toolkit (NLTK) library in Python. 
 Here’s an overview of each part of the code:
 
